@@ -12,3 +12,5 @@ rapports/*.json
 backups/*.log
 backups/*.gz
 cron.log
+rapports/
+backups/
